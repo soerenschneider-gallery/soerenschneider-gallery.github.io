@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portugal on Gallery</title>
-    <link>http://example.org/2019-11-portugal/</link>
+    <link>https://gallery.soerenschneider.com/2019-11-portugal/</link>
     <description>Recent content in Portugal on Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 May 2020 14:08:19 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/2019-11-portugal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gallery.soerenschneider.com/2019-11-portugal/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
