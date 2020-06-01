@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prague on Gallery</title>
+    <link>http://example.org/2019-06-prague/</link>
+    <description>Recent content in Prague on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2020 14:08:09 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/2019-06-prague/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
