@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Japan on Gallery</title>
+    <link>https://gallery.soerenschneider.com/2020-03-japan/</link>
+    <description>Recent content in Japan on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2020 10:06:32 +0200</lastBuildDate>
+    
+	<atom:link href="https://gallery.soerenschneider.com/2020-03-japan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
